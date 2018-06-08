@@ -1,5 +1,5 @@
 ## Standalone JBoss Deployment
-To run the playbook, :
+To run the playbook:
 
 	ansible-playbook -i hosts site.yml
 
